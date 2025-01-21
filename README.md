@@ -32,3 +32,13 @@ El desarrollo de este proyecto forma parte de mi estadía profesional, la cual s
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Herramienta utilizada para probar y validar APIs, asegurando su correcto funcionamiento y rendimiento.  
 # DIAGRAMA DE GANTT
 ![Image](https://github.com/user-attachments/assets/fe034564-b107-4e80-8179-7af3ea1bc94c)
+
+# WIREFRAMES 
+
+| Imagen 1 | Imagen 2 | Imagen 3 |
+|----------|----------|----------|
+| ![Image](https://github.com/user-attachments/assets/bc988bfb-f885-42f1-b381-5e2c46ac9c85) | ![Image](https://github.com/user-attachments/assets/f25de32e-6727-412e-882e-ec4c444cbbf4) | ![Image](https://github.com/user-attachments/assets/be1531c2-a600-4833-83e2-4135e8edd392) |
+
+| Imagen 4 | Imagen 5 |
+|----------|----------|
+| ![Image](https://github.com/user-attachments/assets/0f2f5c78-00b7-456f-b8ec-003d459b65f0) | ![Image](https://github.com/user-attachments/assets/cd4c6e72-d807-4d99-9be7-bb9118dee733) |
