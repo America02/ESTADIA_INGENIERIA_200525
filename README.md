@@ -1,13 +1,12 @@
 ## AUTOR
-Elaborado por: América Yaely Estudillo Licona [@America02](https://github.com/America02)
+Elaborado por:
 
 <div align="center">
 
-| ![Imagen 1](https://github.com/user-attachments/assets/1c6244e9-2a67-43ea-9734-663c8eccfff9) | ![Imagen 2](https://github.com/JonaIbarra/Recursos-Humanos/blob/America/Documentation/LOGO%20UNIVERSIDAD%201.jpeg) |
-|:---:|:---:|
 
 
-| **Nombre del estudiante** | América Yaely Estudillo Licona |
+
+| **Nombre del estudiante** | América Yaely Estudillo Licona [@America02](https://github.com/America02) |
 |:-------------------------:|:------------------------------:|
 | **Matrícula**             | 200525                         |
 | **Carrera**               | Ingeniería en Desarrollo y Gestión de Software |
@@ -22,7 +21,7 @@ Este proyecto tiene como objetivo desarrollar una página web informativa y din�
 El desarrollo de este proyecto forma parte de mi estadía profesional, la cual se llevará a cabo del 06 de enero al 11 de abril de 2025, como requisito académico. Durante este tiempo, se implementarán diversas funcionalidades para asegurar que la página web cumpla con los estándares actuales en diseño y desarrollo.
 
 # TECNOLOGÍAS UTILIZADAS
-
+- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white) Herramienta utilizada para el diseño de wireframes y mockups, facilitando la visualización previa del proyecto.  
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) Framework progresivo de JavaScript para la construcción de interfaces de usuario dinámicas.  
 - ![Tawk.to](https://img.shields.io/badge/Tawk.to-00C853?style=for-the-badge&logo=tawk.to&logoColor=white) Integración para habilitar chat en vivo, mejorando la comunicación con los usuarios.  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) Para crear una estructura visualmente atractiva y amigable.  
