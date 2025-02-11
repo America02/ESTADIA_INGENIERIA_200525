@@ -1,0 +1,56 @@
+git<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-01-06" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="es_ES">
+    <description/>
+    <view zooming-state="default:7" id="gantt-chart">
+        <field id="tpd3" name="Nombre" width="200" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="75" order="2"/>
+        <field id="tpd15" name="Notas" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+        <option id="color.recent"><![CDATA[#dfcae1 #d8af97 #5086c1 #d8f79a #ff9c9c #c999af #ebf3a0 #ff6565 #f79ae5 #bae0f5]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nombre" width="210" order="0"/>
+        <field id="1" name="Función" width="87" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="401dec0fba2a42c3a6d592d03ebe01aa" name="INVESTIGACIÓN DE REQUERIMIENTOS" color="#bae0f5" shape="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" meeting="false" start="2025-01-06" duration="7" complete="0" expand="true"/>
+        <task id="1" uid="9973bcea6c2f4cce9285ef53294beaa1" name="DISEÑO DE WIREFRAMES" color="#ff9c9c" meeting="false" start="2025-01-15" duration="5" complete="0" expand="true"/>
+        <task id="2" uid="5ce7d4c556c846459345a62247f04526" name="CREACIÓN DE MOCUKPS" color="#ff6565" meeting="false" start="2025-01-22" duration="5" complete="0" expand="true"/>
+        <task id="3" uid="e7cc607fb3cc4aaea5264abeb558de1a" name="DESARROLLO ESTRUCTURA VUE.JS" color="#c999af" meeting="false" start="2025-01-29" duration="15" complete="0" expand="true"/>
+        <task id="5" uid="baad4cab4cd5495096e1d5653cdc3e6c" name="ESTILOS CSS Y DISEÑO RESPOSIVO" color="#d8f79a" meeting="false" start="2025-02-18" duration="9" complete="0" expand="true"/>
+        <task id="6" uid="afb24cc91ac44a96acbb4a2baf3c362a" name="PRUEBAS Y FEEDBACK INCIAL" color="#5086c1" meeting="false" start="2025-02-28" duration="3" complete="0" expand="true"/>
+        <task id="7" uid="35b8543dfac84bda962cc2a9ac305aa1" name="AJUSTES FINALES" color="#d8af97" meeting="false" start="2025-03-05" duration="10" complete="0" expand="true"/>
+        <task id="8" uid="c329faad8342410e8305a79aa7d0faa1" name="ENTREGA Y DOCUMENTACIÓN" color="#dfcae1" meeting="false" start="2025-03-19" duration="15" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
