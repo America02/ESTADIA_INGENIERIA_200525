@@ -29,7 +29,7 @@ export default {
   position: relative;
   width: 100%;
   height: 100vh; /* Ajusta la altura de la imagen para que ocupe toda la altura de la pantalla */
-  background: url('https://www.prodein.es/wp-content/uploads/laboratorio-mecanica-del-suelo5.jpg') no-repeat center center;
+  background: url('https://image.jimcdn.com/app/cms/image/transf/none/path/s3bde20fc7828c34c/backgroundarea/ia830c2cf0bf7a99d/version/1507837965/image.jpg') no-repeat center center;
   background-size: cover;
 }
 
