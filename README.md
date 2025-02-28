@@ -42,3 +42,17 @@ El desarrollo de este proyecto forma parte de mi estadía profesional, la cual s
 | Imagen 4 | Imagen 5 |
 |----------|----------|
 | ![Image](https://github.com/user-attachments/assets/0f2f5c78-00b7-456f-b8ec-003d459b65f0) | ![Image](https://github.com/user-attachments/assets/cd4c6e72-d807-4d99-9be7-bb9118dee733) |
+
+
+# MOCKUPS
+
+| Imagen 1 | Imagen 2 | Imagen 3 |
+|----------|----------|----------|
+| ![INICIO](https://github.com/user-attachments/assets/07aae26b-497e-4bd9-bffe-6934d568c916) | ![Nosotros](https://github.com/user-attachments/assets/e5a73cb1-ac0a-4ca0-8014-d364169ac24a) | ![SERVICIOS](https://github.com/user-attachments/assets/744a5f1a-c9d9-4455-a163-f82677b6793a) |
+
+| Imagen 4 | Imagen 5 |
+|----------|----------|
+| ![CONTACTO](https://github.com/user-attachments/assets/9caa0d6d-f758-4dc2-b11a-049d92a67983) | ![AVISOPRIV](https://github.com/user-attachments/assets/3e816668-2588-420b-874c-38087c4a42e2) |
+
+
+
